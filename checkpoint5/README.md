@@ -14,4 +14,4 @@ docker run -d --name api --network appnet -p 8080:8080 \
   -e SPRING_DATASOURCE_USERNAME=app \
   -e SPRING_DATASOURCE_PASSWORD=app \
   -e SPRING_JPA_HIBERNATE_DDL_AUTO=update \
-  guicavalcanti05/minha-api:1.0.0
+  guicavalcanti05/checkpoint5:1.0.0
